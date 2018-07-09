@@ -1,0 +1,68 @@
+h1{
+	padding-top: 40px;
+	font-size:  40px;
+	color: #ffffff;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.xcontainer{
+	margin-bottom: 40px;
+	height: 200px;
+	background: url(3.jpg);
+	background-size: cover;
+}
+input[type=text], select {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;}
+.name{
+	color: #ff6744
+
+}
+.secondcolumn{
+	margin-left: 200px;
+	width: 600px;
+	/*float: left;*/
+}
+.area{
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;}
+
+    input[type=submit] {
+    width: 10%;
+    background-color: green;
+    color: white;
+    padding: 10px 2px;
+    margin: 3px 3px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 0px 20px;
+    overflow: hidden;
+    background-color: none;
+    }
+.third{
+	float: left;
+	padding-left: 50px;
+	padding-top: 10px;
+	margin-top: 50px;
+	width:300px;
+	height: 150px;
+	box-shadow: 2px 1px 1px 2px;
+	background-color: none;
+}
+.name1{
+	color: red;
+}
